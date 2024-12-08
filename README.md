@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hello, I'm Alister Bailey
+
+Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open-source development, and hardware. I thrive on learning innovative solutions and enjoy contributing to projects that make a difference.
+
+🔧 Tech Stack
+  - Languages: Python, Java, C, C++, C#, JavaScript, Bash,
+  - Frameworks & Libraries: ASP.NET, React.js, NumPy, Pandas, MatPlotlib, Docker, Unity
+  - Tools & Platforms: Visual Studio Code, AWS, Git, Docker, Metasploit, Wireshark, Burp Suite, Nmap
+  - Databases: MySQL
+
+🚀 Current Projects
+  - <a href="">Portfolio:</a> Professional portfolio to display projects and skills <br>
 
 <!--
-**AlisterBailey/AlisterBailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 GitHub Stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌟 Featured Repositories
+
 -->
+✉️ Connect With Me <br>
+  - <a href="https://www.linkedin.com/in/alister-bailey/">LinkedIn</a> <br>
+  - <a href="https://stackoverflow.com/users/18362782/alister-bailey">Stacked Overflow</a> <br>
+  - <a href="https://www.hackerearth.com/@alister9/">HackerEarth</a> <br>
+  - <a href="https://www.hackerrank.com/dashboard">HackerRank</a> <br>
+  - <a href="https://x.com/AlisterBailey_">X</a> <br>
+  - <a href= "mailto:alisterbailey1@gmail.com">alisterbailey1@gmail.com</a> <br>
+  <!-- - <a href="">Portfolio</a> <br> -->
