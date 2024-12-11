@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open
   - Databases: MySQL
 
 🚀 Current Projects
-  - <a href="">Portfolio:</a> Professional portfolio to display projects and skills <br>
+  - <a href="https://github.com/AlisterBailey/Portfolio">Portfolio:</a> Professional portfolio to display projects and skills <br>
 
 <!--
 📊 GitHub Stats
