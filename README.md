@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open-source development, and hardware. I thrive on learning innovative solutions and enjoy contributing to projects that make a difference.
 
 🔧 Tech Stack
-  - Languages: Python, Java, C, C++, C#, JavaScript, Bash,
+  - Languages: Python, Java, C, C++, C#, JavaScript, Bash
   - Frameworks & Libraries: ASP.NET, React.js, NumPy, Pandas, MatPlotlib, Docker, Unity
   - Tools & Platforms: Visual Studio Code, AWS, Git, Docker, Metasploit, Wireshark, Burp Suite, Nmap
   - Databases: MySQL
