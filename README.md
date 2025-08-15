@@ -20,9 +20,5 @@ Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open
 -->
 ✉️ Connect With Me <br>
   - <a href="https://www.linkedin.com/in/alister-bailey/">LinkedIn</a> <br>
-  - <a href="https://stackoverflow.com/users/18362782/alister-bailey">Stacked Overflow</a> <br>
-  - <a href="https://www.hackerearth.com/@alister9/">HackerEarth</a> <br>
-  - <a href="https://www.hackerrank.com/dashboard">HackerRank</a> <br>
-  - <a href="https://x.com/AlisterBailey_">X</a> <br>
   - <a href= "mailto:alisterbailey1@gmail.com">alisterbailey1@gmail.com</a> <br>
   <!-- - <a href="">Portfolio</a> <br> -->
