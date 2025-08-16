@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open
 ![Alister Bailey's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBailey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Tech Stack
-  - [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,js,react,npm,nodejs,py,docker,cloudflare)] <!-- https://skillicons.dev for more --> <br>
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,js,react,npm,nodejs,py,docker,cloudflare)]<!-- https://skillicons.dev for more --> <br>
 
 Current Projects
   - <a href="https://github.com/AlisterBailey/Portfolio">Portfolio:</a> Professional portfolio to display projects and skills <br>
