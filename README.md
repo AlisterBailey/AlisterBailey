@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open-source development, and hardware. I thrive on learning innovative solutions and enjoy contributing to projects that make a difference.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlisterBailey)]
 ![Alister Bailey's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBailey&theme=merko&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)
 
 <!-- 
