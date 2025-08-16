@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open
 -->
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,js,react,npm,nodejs,py,docker,cloudflare)<!-- https://skillicons.dev for more --> <br>
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,npm,nodejs,py,docker,cloudflare)<!-- https://skillicons.dev for more --> <br>
 
 <!--
 ## Achievements
