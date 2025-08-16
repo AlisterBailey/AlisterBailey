@@ -2,7 +2,7 @@ Hello, I'm Alister Bailey
 
 Welcome to my GitHub profile! I'm a student passionate about cybersecurity, open-source development, and hardware. I thrive on learning innovative solutions and enjoy contributing to projects that make a difference.
 
-!{Alister Bailey's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBailey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Alister Bailey's Stats](https://github-readme-stats.vercel.app/api?username=AlisterBailey&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 Tech Stack
   - Languages: Python, Java, C, C++, C#, JavaScript, Bash
